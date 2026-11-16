@@ -1,0 +1,698 @@
+[
+  {
+    "name": "Kano",
+    "phc": "Murtala Muhammad Specialist Hospital / Central PHC",
+    "lga": "Kano Municipal",
+    "lat": 12.0024,
+    "lon": 8.5132,
+    "state": "Kano"
+  },
+  {
+    "name": "Kano Municipal",
+    "phc": "Kano Municipal Primary Health Centre",
+    "lga": "Kano Municipal",
+    "lat": 12.0,
+    "lon": 8.5167,
+    "state": "Kano"
+  },
+  {
+    "name": "Dala",
+    "phc": "Dala Primary Health Centre",
+    "lga": "Dala",
+    "lat": 12.0167,
+    "lon": 8.5,
+    "state": "Kano"
+  },
+  {
+    "name": "Fagge",
+    "phc": "Fagge Primary Health Centre",
+    "lga": "Fagge",
+    "lat": 12.02,
+    "lon": 8.53,
+    "state": "Kano"
+  },
+  {
+    "name": "Gwale",
+    "phc": "Gwale Primary Health Centre",
+    "lga": "Gwale",
+    "lat": 11.98,
+    "lon": 8.5,
+    "state": "Kano"
+  },
+  {
+    "name": "Tarauni",
+    "phc": "Tarauni Primary Health Centre",
+    "lga": "Tarauni",
+    "lat": 11.97,
+    "lon": 8.55,
+    "state": "Kano"
+  },
+  {
+    "name": "Nassarawa",
+    "phc": "Nassarawa Primary Health Centre",
+    "lga": "Nassarawa",
+    "lat": 12.03,
+    "lon": 8.55,
+    "state": "Kano"
+  },
+  {
+    "name": "Ungogo",
+    "phc": "Ungogo Primary Health Centre",
+    "lga": "Ungogo",
+    "lat": 12.0906,
+    "lon": 8.4967,
+    "state": "Kano"
+  },
+  {
+    "name": "Kumbotso",
+    "phc": "Kumbotso Primary Health Centre",
+    "lga": "Kumbotso",
+    "lat": 11.95,
+    "lon": 8.5,
+    "state": "Kano"
+  },
+  {
+    "name": "Ajingi",
+    "phc": "Ajingi Primary Health Centre",
+    "lga": "Ajingi",
+    "lat": 11.97,
+    "lon": 9.0392,
+    "state": "Kano"
+  },
+  {
+    "name": "Albasu",
+    "phc": "Albasu Primary Health Centre",
+    "lga": "Albasu",
+    "lat": 11.65,
+    "lon": 9.15,
+    "state": "Kano"
+  },
+  {
+    "name": "Bagwai",
+    "phc": "Bagwai Primary Health Centre",
+    "lga": "Bagwai",
+    "lat": 12.1578,
+    "lon": 8.1358,
+    "state": "Kano"
+  },
+  {
+    "name": "Bebeji",
+    "phc": "Bebeji Primary Health Centre",
+    "lga": "Bebeji",
+    "lat": 11.6667,
+    "lon": 8.2667,
+    "state": "Kano"
+  },
+  {
+    "name": "Bichi",
+    "phc": "Bichi General Hospital / PHC",
+    "lga": "Bichi",
+    "lat": 12.2333,
+    "lon": 8.2333,
+    "state": "Kano"
+  },
+  {
+    "name": "Bunkure",
+    "phc": "Bunkure Primary Health Centre",
+    "lga": "Bunkure",
+    "lat": 11.7,
+    "lon": 8.55,
+    "state": "Kano"
+  },
+  {
+    "name": "Dambatta",
+    "phc": "Dambatta Primary Health Centre",
+    "lga": "Dambatta",
+    "lat": 12.4331,
+    "lon": 8.5153,
+    "state": "Kano"
+  },
+  {
+    "name": "Dawakin Kudu",
+    "phc": "Dawakin Kudu Primary Health Centre",
+    "lga": "Dawakin Kudu",
+    "lat": 11.8347,
+    "lon": 8.5981,
+    "state": "Kano"
+  },
+  {
+    "name": "Dawakin Tofa",
+    "phc": "Dawakin Tofa Primary Health Centre",
+    "lga": "Dawakin Tofa",
+    "lat": 12.1028,
+    "lon": 8.3314,
+    "state": "Kano"
+  },
+  {
+    "name": "Doguwa",
+    "phc": "Riruwai / Doguwa Primary Health Centre",
+    "lga": "Doguwa",
+    "lat": 10.75,
+    "lon": 8.7333,
+    "state": "Kano"
+  },
+  {
+    "name": "Gabasawa",
+    "phc": "Zakirai / Gabasawa Primary Health Centre",
+    "lga": "Gabasawa",
+    "lat": 12.1,
+    "lon": 8.8833,
+    "state": "Kano"
+  },
+  {
+    "name": "Garko",
+    "phc": "Garko Primary Health Centre",
+    "lga": "Garko",
+    "lat": 11.65,
+    "lon": 8.9,
+    "state": "Kano"
+  },
+  {
+    "name": "Garun Mallam",
+    "phc": "Garun Mallam Primary Health Centre",
+    "lga": "Garun Mallam",
+    "lat": 11.6833,
+    "lon": 8.3667,
+    "state": "Kano"
+  },
+  {
+    "name": "Gaya",
+    "phc": "Gaya Primary Health Centre",
+    "lga": "Gaya",
+    "lat": 11.8606,
+    "lon": 9.0027,
+    "state": "Kano"
+  },
+  {
+    "name": "Gezawa",
+    "phc": "Gezawa Primary Health Centre",
+    "lga": "Gezawa",
+    "lat": 12.1,
+    "lon": 8.7333,
+    "state": "Kano"
+  },
+  {
+    "name": "Gwarzo",
+    "phc": "Gwarzo Primary Health Centre",
+    "lga": "Gwarzo",
+    "lat": 11.9167,
+    "lon": 7.9333,
+    "state": "Kano"
+  },
+  {
+    "name": "Kabo",
+    "phc": "Kabo Primary Health Centre",
+    "lga": "Kabo",
+    "lat": 11.85,
+    "lon": 8.15,
+    "state": "Kano"
+  },
+  {
+    "name": "Karaye",
+    "phc": "Karaye Primary Health Centre",
+    "lga": "Karaye",
+    "lat": 11.7833,
+    "lon": 8.0167,
+    "state": "Kano"
+  },
+  {
+    "name": "Kibiya",
+    "phc": "Kibiya Primary Health Centre",
+    "lga": "Kibiya",
+    "lat": 11.528,
+    "lon": 8.6611,
+    "state": "Kano"
+  },
+  {
+    "name": "Kiru",
+    "phc": "Kiru Primary Health Centre",
+    "lga": "Kiru",
+    "lat": 11.7,
+    "lon": 8.15,
+    "state": "Kano"
+  },
+  {
+    "name": "Kunchi",
+    "phc": "Kunchi Primary Health Centre",
+    "lga": "Kunchi",
+    "lat": 12.5,
+    "lon": 8.2,
+    "state": "Kano"
+  },
+  {
+    "name": "Kura",
+    "phc": "Kura Primary Health Centre",
+    "lga": "Kura",
+    "lat": 11.7714,
+    "lon": 8.4303,
+    "state": "Kano"
+  },
+  {
+    "name": "Madobi",
+    "phc": "Madobi Primary Health Centre",
+    "lga": "Madobi",
+    "lat": 11.7772,
+    "lon": 8.2883,
+    "state": "Kano"
+  },
+  {
+    "name": "Makoda",
+    "phc": "Makoda Primary Health Centre",
+    "lga": "Makoda",
+    "lat": 12.3,
+    "lon": 8.4,
+    "state": "Kano"
+  },
+  {
+    "name": "Minjibir",
+    "phc": "Minjibir Primary Health Centre",
+    "lga": "Minjibir",
+    "lat": 12.1783,
+    "lon": 8.6592,
+    "state": "Kano"
+  },
+  {
+    "name": "Rano",
+    "phc": "Rano Primary Health Centre",
+    "lga": "Rano",
+    "lat": 11.5572,
+    "lon": 8.5833,
+    "state": "Kano"
+  },
+  {
+    "name": "Rimin Gado",
+    "phc": "Rimin Gado Primary Health Centre",
+    "lga": "Rimin Gado",
+    "lat": 11.965,
+    "lon": 8.25,
+    "state": "Kano"
+  },
+  {
+    "name": "Rogo",
+    "phc": "Rogo Primary Health Centre",
+    "lga": "Rogo",
+    "lat": 11.5667,
+    "lon": 7.8333,
+    "state": "Kano"
+  },
+  {
+    "name": "Shanono",
+    "phc": "Shanono Primary Health Centre",
+    "lga": "Shanono",
+    "lat": 12.05,
+    "lon": 7.9833,
+    "state": "Kano"
+  },
+  {
+    "name": "Sumaila",
+    "phc": "Sumaila Primary Health Centre",
+    "lga": "Sumaila",
+    "lat": 11.5014,
+    "lon": 8.9644,
+    "state": "Kano"
+  },
+  {
+    "name": "Takai",
+    "phc": "Takai Primary Health Centre",
+    "lga": "Takai",
+    "lat": 11.5833,
+    "lon": 9.1167,
+    "state": "Kano"
+  },
+  {
+    "name": "Tofa",
+    "phc": "Tofa Primary Health Centre",
+    "lga": "Tofa",
+    "lat": 12.05,
+    "lon": 8.2667,
+    "state": "Kano"
+  },
+  {
+    "name": "Tsanyawa",
+    "phc": "Tsanyawa Primary Health Centre",
+    "lga": "Tsanyawa",
+    "lat": 12.3,
+    "lon": 7.9833,
+    "state": "Kano"
+  },
+  {
+    "name": "Tudun Wada",
+    "phc": "Tudun Wada Primary Health Centre",
+    "lga": "Tudun Wada",
+    "lat": 11.25,
+    "lon": 8.4,
+    "state": "Kano"
+  },
+  {
+    "name": "Warawa",
+    "phc": "Warawa Primary Health Centre",
+    "lga": "Warawa",
+    "lat": 11.8833,
+    "lon": 8.6833,
+    "state": "Kano"
+  },
+  {
+    "name": "Wudil",
+    "phc": "Wudil General Hospital / PHC",
+    "lga": "Wudil",
+    "lat": 11.8094,
+    "lon": 8.8442,
+    "state": "Kano"
+  },
+  {
+    "name": "Okada",
+    "phc": "Okada Primary Health Centre",
+    "lga": "Ovia North-East",
+    "lat": 6.7331,
+    "lon": 5.3913,
+    "state": "Edo"
+  },
+  {
+    "name": "Okada West",
+    "phc": "Okada Primary Health Centre",
+    "lga": "Ovia North-East",
+    "lat": 6.728,
+    "lon": 5.385,
+    "state": "Edo"
+  },
+  {
+    "name": "Iguomo",
+    "phc": "Iguomo Primary Health Centre",
+    "lga": "Ovia North-East",
+    "lat": 6.7477,
+    "lon": 5.4225,
+    "state": "Edo"
+  },
+  {
+    "name": "Egbeta",
+    "phc": "Egbeta Primary Health Centre",
+    "lga": "Ovia North-East",
+    "lat": 6.7891,
+    "lon": 5.5143,
+    "state": "Edo"
+  },
+  {
+    "name": "Utese",
+    "phc": "Utese Primary Health Centre",
+    "lga": "Ovia North-East",
+    "lat": 6.7952,
+    "lon": 5.4931,
+    "state": "Edo"
+  },
+  {
+    "name": "Oluku",
+    "phc": "Oluku Primary Health Centre",
+    "lga": "Ovia North-East",
+    "lat": 6.451,
+    "lon": 5.5937,
+    "state": "Edo"
+  },
+  {
+    "name": "Ekiadolor",
+    "phc": "Ekiadolor Primary Health Centre",
+    "lga": "Ovia North-East",
+    "lat": 6.4857,
+    "lon": 5.582,
+    "state": "Edo"
+  },
+  {
+    "name": "Uhen",
+    "phc": "Uhen Primary Health Centre",
+    "lga": "Ovia North-East",
+    "lat": 6.7665,
+    "lon": 5.5378,
+    "state": "Edo"
+  },
+  {
+    "name": "Iguadolor",
+    "phc": "Iguadolor Primary Health Centre",
+    "lga": "Ovia North-East",
+    "lat": 6.4285,
+    "lon": 5.5542,
+    "state": "Edo"
+  },
+  {
+    "name": "Iguobazuwa",
+    "phc": "Iguobazuwa Primary Health Centre",
+    "lga": "Ovia South-West",
+    "lat": 6.55,
+    "lon": 5.37,
+    "state": "Edo"
+  },
+  {
+    "name": "Siluko",
+    "phc": "Siluko Primary Health Centre",
+    "lga": "Ovia South-West",
+    "lat": 6.5359,
+    "lon": 5.1601,
+    "state": "Edo"
+  },
+  {
+    "name": "Ekenwan",
+    "phc": "Ekenwan Primary Health Centre",
+    "lga": "Ovia South-West",
+    "lat": 6.28,
+    "lon": 5.45,
+    "state": "Edo"
+  },
+  {
+    "name": "Benin City",
+    "phc": "Central Hospital Benin / nearest PHC",
+    "lga": "Oredo",
+    "lat": 6.3382,
+    "lon": 5.6258,
+    "state": "Edo"
+  },
+  {
+    "name": "Uselu",
+    "phc": "Uselu Primary Health Centre",
+    "lga": "Egor",
+    "lat": 6.37,
+    "lon": 5.62,
+    "state": "Edo"
+  },
+  {
+    "name": "Ugbowo",
+    "phc": "Ugbowo Primary Health Centre",
+    "lga": "Egor",
+    "lat": 6.4,
+    "lon": 5.61,
+    "state": "Edo"
+  },
+  {
+    "name": "Idogbo",
+    "phc": "Idogbo Primary Health Centre",
+    "lga": "Ikpoba-Okha",
+    "lat": 6.28,
+    "lon": 5.7,
+    "state": "Edo"
+  },
+  {
+    "name": "Ikpoba Hill",
+    "phc": "Ikpoba Hill Primary Health Centre",
+    "lga": "Ikpoba-Okha",
+    "lat": 6.31,
+    "lon": 5.68,
+    "state": "Edo"
+  },
+  {
+    "name": "Abudu",
+    "phc": "Abudu General Hospital / PHC",
+    "lga": "Orhionmwon",
+    "lat": 6.3,
+    "lon": 5.95,
+    "state": "Edo"
+  },
+  {
+    "name": "Ehor",
+    "phc": "Ehor Primary Health Centre",
+    "lga": "Uhunmwonde",
+    "lat": 6.5,
+    "lon": 5.9,
+    "state": "Edo"
+  },
+  {
+    "name": "Irrua",
+    "phc": "Irrua Specialist Teaching Hospital / PHC",
+    "lga": "Esan Central",
+    "lat": 6.74,
+    "lon": 6.22,
+    "state": "Edo"
+  },
+  {
+    "name": "Uromi",
+    "phc": "Uromi General Hospital / PHC",
+    "lga": "Esan North-East",
+    "lat": 6.7,
+    "lon": 6.3333,
+    "state": "Edo"
+  },
+  {
+    "name": "Ubiaja",
+    "phc": "Ubiaja Primary Health Centre",
+    "lga": "Esan South-East",
+    "lat": 6.6558,
+    "lon": 6.3849,
+    "state": "Edo"
+  },
+  {
+    "name": "Ekpoma",
+    "phc": "Ekpoma Primary Health Centre / AAU Clinic",
+    "lga": "Esan West",
+    "lat": 6.743,
+    "lon": 6.1403,
+    "state": "Edo"
+  },
+  {
+    "name": "Igueben",
+    "phc": "Igueben Primary Health Centre",
+    "lga": "Igueben",
+    "lat": 6.6,
+    "lon": 6.25,
+    "state": "Edo"
+  },
+  {
+    "name": "Auchi",
+    "phc": "Auchi General Hospital / PHC",
+    "lga": "Etsako West",
+    "lat": 7.0676,
+    "lon": 6.2636,
+    "state": "Edo"
+  },
+  {
+    "name": "Fugar",
+    "phc": "Fugar Primary Health Centre",
+    "lga": "Etsako Central",
+    "lat": 7.09,
+    "lon": 6.5,
+    "state": "Edo"
+  },
+  {
+    "name": "Agenebode",
+    "phc": "Agenebode Primary Health Centre",
+    "lga": "Etsako East",
+    "lat": 7.1051,
+    "lon": 6.6938,
+    "state": "Edo"
+  },
+  {
+    "name": "Igarra",
+    "phc": "Igarra General Hospital / PHC",
+    "lga": "Akoko-Edo",
+    "lat": 7.2937,
+    "lon": 6.1043,
+    "state": "Edo"
+  },
+  {
+    "name": "Ososo",
+    "phc": "Ososo Primary Health Centre",
+    "lga": "Akoko-Edo",
+    "lat": 7.42,
+    "lon": 6.25,
+    "state": "Edo"
+  },
+  {
+    "name": "Afuze",
+    "phc": "Afuze Primary Health Centre",
+    "lga": "Owan East",
+    "lat": 7.0,
+    "lon": 6.0,
+    "state": "Edo"
+  },
+  {
+    "name": "Sabongida-Ora",
+    "phc": "Sabongida-Ora Primary Health Centre",
+    "lga": "Owan West",
+    "lat": 6.9,
+    "lon": 5.9,
+    "state": "Edo"
+  },
+  {
+    "name": "Illushi",
+    "phc": "Illushi Primary Health Centre",
+    "lga": "Esan South-East",
+    "lat": 6.6703,
+    "lon": 6.6291,
+    "state": "Edo"
+  },
+  {
+    "name": "Ikeja",
+    "phc": "Ikeja General Hospital / PHC",
+    "lga": "Ikeja",
+    "lat": 6.6018,
+    "lon": 3.3515,
+    "state": "Lagos"
+  },
+  {
+    "name": "Agege",
+    "phc": "Agege Primary Health Centre",
+    "lga": "Agege",
+    "lat": 6.6219,
+    "lon": 3.3256,
+    "state": "Lagos"
+  },
+  {
+    "name": "Alimosho",
+    "phc": "Alimosho Primary Health Centre",
+    "lga": "Alimosho",
+    "lat": 6.6101,
+    "lon": 3.2958,
+    "state": "Lagos"
+  },
+  {
+    "name": "Surulere",
+    "phc": "Surulere Primary Health Centre",
+    "lga": "Surulere",
+    "lat": 6.4969,
+    "lon": 3.3569,
+    "state": "Lagos"
+  },
+  {
+    "name": "Eti-Osa",
+    "phc": "Eti-Osa Primary Health Centre",
+    "lga": "Eti-Osa",
+    "lat": 6.458,
+    "lon": 3.6015,
+    "state": "Lagos"
+  },
+  {
+    "name": "Ikorodu",
+    "phc": "Ikorodu General Hospital / PHC",
+    "lga": "Ikorodu",
+    "lat": 6.6194,
+    "lon": 3.5105,
+    "state": "Lagos"
+  },
+  {
+    "name": "Badagry",
+    "phc": "Badagry Primary Health Centre",
+    "lga": "Badagry",
+    "lat": 6.415,
+    "lon": 2.8813,
+    "state": "Lagos"
+  },
+  {
+    "name": "Epe",
+    "phc": "Epe Primary Health Centre",
+    "lga": "Epe",
+    "lat": 6.5847,
+    "lon": 3.9866,
+    "state": "Lagos"
+  },
+  {
+    "name": "Lagos Island",
+    "phc": "Lagos Island Maternity / PHC",
+    "lga": "Lagos Island",
+    "lat": 6.4549,
+    "lon": 3.4246,
+    "state": "Lagos"
+  },
+  {
+    "name": "Mushin",
+    "phc": "Mushin Primary Health Centre",
+    "lga": "Mushin",
+    "lat": 6.527,
+    "lon": 3.348,
+    "state": "Lagos"
+  }
+]
