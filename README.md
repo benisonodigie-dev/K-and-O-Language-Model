@@ -40,7 +40,7 @@ SMS> Please help, my wife is 8 months pregnant and bleeding heavily since mornin
 
 ## Coverage
 
-- **All 18 LGAs of Kano State** covered in the location gazetteer
+- **All 18 LGAs of Edo & Kano State** covered in the location gazetteer
 - Coordinates enable Haversine distance and future map-based routing
 
 ## Project structure
