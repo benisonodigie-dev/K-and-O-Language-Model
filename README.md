@@ -40,7 +40,7 @@ SMS> Please help, my wife is 8 months pregnant and bleeding heavily since mornin
 
 ## Coverage
 
-- **All 18 LGAs of Edo & Kano State** covered in the location gazetteer
+- **All 18 LGAs of Kano State** covered in the location gazetteer
 - Coordinates enable Haversine distance and future map-based routing
 
 ## Project structure
@@ -131,4 +131,31 @@ The Streamlit app shows an interactive OpenStreetMap view from the **patient GPS
 ```bash
 pip install folium streamlit-folium
 streamlit run app.py
+```
+
+## Hugging Face access (Gemma is gated)
+
+`google/gemma-2-2b-it` and `google/gemma-2-9b-it` require license acceptance:
+
+1. Open the model page and accept the license, e.g.  
+   https://huggingface.co/google/gemma-2-2b-it  
+   https://huggingface.co/google/gemma-2-9b-it
+2. Create a token: https://huggingface.co/settings/tokens
+3. Authenticate, then train:
+
+```bash
+export HF_TOKEN=hf_your_token_here
+python src/gemma_lora_train.py --model google/gemma-2-2b-it --epochs 2
+
+# Larger model (needs more VRAM)
+python src/gemma_lora_train.py --model google/gemma-2-9b-it --epochs 1 --batch-size 1
+
+# Or pass token on the command line
+python src/gemma_lora_train.py --token hf_your_token_here --model google/gemma-2-2b-it
+```
+
+Non-gated alternative for testing without approval:
+
+```bash
+python src/gemma_lora_train.py --model TinyLlama/TinyLlama-1.1B-Chat-v1.0
 ```

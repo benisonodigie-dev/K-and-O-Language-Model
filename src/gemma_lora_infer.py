@@ -38,9 +38,18 @@ def load_model(force: bool = False) -> bool:
         logger.warning(_load_error)
         return False
     try:
+        import os
         import torch
         from transformers import AutoModelForSequenceClassification, AutoTokenizer
         from peft import PeftModel
+
+        token = os.environ.get("HF_TOKEN") or os.environ.get("HUGGINGFACE_TOKEN")
+        if token:
+            try:
+                from huggingface_hub import login
+                login(token=token, add_to_git_credential=False)
+            except Exception:
+                pass
 
         meta_path = ADAPTER_DIR / "triage_meta.json"
         if meta_path.exists():
@@ -50,7 +59,7 @@ def load_model(force: bool = False) -> bool:
         id2label = {int(k): v for k, v in _meta.get("id2label", {"0": "Routine", "1": "Urgent"}).items()}
         label2id = _meta.get("label2id", {"Routine": 0, "Urgent": 1})
 
-        _tokenizer = AutoTokenizer.from_pretrained(str(ADAPTER_DIR), trust_remote_code=True)
+        _tokenizer = AutoTokenizer.from_pretrained(str(ADAPTER_DIR), trust_remote_code=True, token=token or True)
         if _tokenizer.pad_token is None:
             _tokenizer.pad_token = _tokenizer.eos_token
 
@@ -61,6 +70,7 @@ def load_model(force: bool = False) -> bool:
             label2id=label2id,
             trust_remote_code=True,
             torch_dtype=torch.float16 if torch.cuda.is_available() else torch.float32,
+            token=token or True,
         )
         _model = PeftModel.from_pretrained(base, str(ADAPTER_DIR))
         _model.eval()
